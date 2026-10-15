@@ -12,15 +12,15 @@
 
 ---
 
-# Web Check Utility ⚡
+# fake-request-website
 
 > High-Speed Performance & Traffic Testing Engine
 
-**Web Check Utility** is a lightweight, high-performance command-line performance testing tool built in Python.
+**fake-request-website** is a lightweight, high-performance command-line performance testing tool built in Python.
 
 Designed for educational, entertainment, and authorized performance testing purposes to analyze server traffic handling capacity.
 
-**Creator:** [ug-alok]
+**Creator:** [Cutlgit
 
 ---
 
@@ -43,7 +43,7 @@ You can easily install and run this tool on **Termux** (Android) or any **Linux*
 Run the following commands in your terminal:
 
 ```bash
-git clone https://github.com/UG-ALOK/fake-request-website.git
+git clone https://github.com/Curlgit/fake-request-website.git
 ```
 ```bash
 cd fake-request-website
