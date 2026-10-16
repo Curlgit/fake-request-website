@@ -43,7 +43,7 @@ You can easily install and run this tool on **Termux** (Android) or any **Linux*
 Run the following commands in your terminal:
 
 ```bash
-git clone https://github.com/git/fake-request-website.git
+git clone https://github.com/Curlgit/fake-request-website.git
 ```
 ```bash
 cd fake-request-website
